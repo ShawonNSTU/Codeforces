@@ -1,3 +1,9 @@
+/*
+    Email: shuvroshawon9@gmail.com
+*/
+
+// The numbers which has exactly three divisors are the square numbers if it's square root is a prime number...
+
 #include <stdio.h>
 #include <math.h>
 #define MAX 1000001
@@ -29,4 +35,4 @@ int main()
         else printf("NO\n");
     }
     return 0;
-}
+}//@END OF SOURCE CODE
