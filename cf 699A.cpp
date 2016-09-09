@@ -13,7 +13,7 @@ int main()
         v.push_back(x);
     }
     bool check=false;
-    int sec=2e9;
+    int sec=1e9;
     printf("%d\n",sec);
     for(int i=0;i<str.size();i++){
        if(str[i]=='R'&&str[i+1]=='L'){
